@@ -9,6 +9,7 @@ gem 'rails_12factor', group: :production
 
 #User bootstrap library for styles
 gem 'bootstrap-sass'
+gem 'font-awesome-sass'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
