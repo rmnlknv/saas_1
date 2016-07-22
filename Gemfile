@@ -6,6 +6,7 @@ gem 'rails', '4.2.5.2'
 # Use postgresql as the database for production
 gem 'pg', group: :production
 gem 'rails_12factor', group: :production
+gem 'devise'
 
 #User bootstrap library for styles
 gem 'bootstrap-sass'
