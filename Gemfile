@@ -16,6 +16,9 @@ gem 'stripe'
 # User figato to hide secret keys
 gem 'figaro'
 
+# User paperclip for image uploads
+gem 'paperclip'
+
 #User bootstrap library for styles
 gem 'bootstrap-sass'
 gem 'font-awesome-sass'
